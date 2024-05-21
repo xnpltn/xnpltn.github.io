@@ -10,6 +10,19 @@ body {
   align-items: center;
   justify-content: center;
 }
+p{
+  font-size: 1.6rem;
+}
+h1{
+  font-size: 4.5rem;
+}
+.name{
+  font-size: 2.2rem;
+}
+.name, .hello{
+  color: white;
+  line-height: 0.5rem;
+}
 .social-container{
   display: flex;
   align-items: center;
